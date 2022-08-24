@@ -1,0 +1,2 @@
+EXTI_REGS.c:14:6:EXTI_EnableClock	4	static
+EXTI_REGS.c:20:6:EXIT_INIT	16	static
